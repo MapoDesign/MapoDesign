@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-end + UX Design
 - 🌱 I’m currently learning JavaScript + React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/elisaresmini/ (IT + EN)
+- 📫 How to reach me on Linkedin: https://www.linkedin.com/in/elisaresmini/ (IT + EN) or https://www.mapodesign.com (IT)
